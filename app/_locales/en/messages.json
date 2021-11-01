@@ -549,6 +549,9 @@
   "currentlyUnavailable": {
     "message": "Unavailable on this network"
   },
+  "custom": {
+    "message": "Advanced"
+  },
   "customGas": {
     "message": "Customize Gas"
   },
@@ -560,6 +563,9 @@
   },
   "customToken": {
     "message": "Custom Token"
+  },
+  "dappSuggested": {
+    "message": "Site suggested"
   },
   "data": {
     "message": "Data"
@@ -1100,6 +1106,9 @@
   "hideZeroBalanceTokens": {
     "message": "Hide Tokens Without Balance"
   },
+  "high": {
+    "message": "Aggressive"
+  },
   "history": {
     "message": "History"
   },
@@ -1324,6 +1333,9 @@
   "lockTimeTooGreat": {
     "message": "Lock time is too great"
   },
+  "low": {
+    "message": "Low"
+  },
   "lowGasWarning": {
     "message": "Future transactions will queue after this one. This price was last seen was 2 hours ago."
   },
@@ -1345,6 +1357,9 @@
   },
   "maxPriorityFee": {
     "message": "Max priority fee"
+  },
+  "medium": {
+    "message": "Market"
   },
   "memo": {
     "message": "memo"

@@ -15,4 +15,35 @@
       text-transform: uppercase;
     }
   }
+
+  .transaction-detail-edit-V2 {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 20px;
+
+    button {
+      @include H7;
+
+      display: flex;
+      align-items: center;
+      color: $primary-1;
+      background: transparent;
+      border: 0;
+      padding-inline-end: 0;
+    }
+
+    i {
+      color: $primary-1;
+    }
+
+    &-icon {
+      font-size: 16px;
+    }
+
+    &-label {
+      font-size: 12px;
+      margin-right: 8px;
+    }
+  }
 }
